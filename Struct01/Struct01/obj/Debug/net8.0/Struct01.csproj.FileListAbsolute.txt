@@ -1,0 +1,4 @@
+C:\Users\anala\source\repos\Struct01\Struct01\obj\Debug\net8.0\Struct01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anala\source\repos\Struct01\Struct01\obj\Debug\net8.0\Struct01.AssemblyInfoInputs.cache
+C:\Users\anala\source\repos\Struct01\Struct01\obj\Debug\net8.0\Struct01.AssemblyInfo.cs
+C:\Users\anala\source\repos\Struct01\Struct01\obj\Debug\net8.0\Struct01.csproj.CoreCompileInputs.cache
